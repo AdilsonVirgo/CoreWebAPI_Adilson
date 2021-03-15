@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreWebAPI_Adilson", "CoreWebAPI_Adilson.csproj", "{FA86D675-051B-4078-AB7A-6A47FAFBD331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA86D675-051B-4078-AB7A-6A47FAFBD331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA86D675-051B-4078-AB7A-6A47FAFBD331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA86D675-051B-4078-AB7A-6A47FAFBD331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA86D675-051B-4078-AB7A-6A47FAFBD331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D788EC5-4EBB-4892-ABC0-9C718AE28E25}
+	EndGlobalSection
+EndGlobal
